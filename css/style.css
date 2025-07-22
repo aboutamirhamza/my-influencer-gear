@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Common Style Start */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root{
+    --font-inter: "Inter", sans-serif;
+    --font-manrope: "Manrope", sans-serif;
+    --primary-color: #3A3A3A;
+    --card-name-color: #18191F;
+    --card-price-color: rgba(0, 0, 0, 0.87);
+    --card-rating-color: #5E6366;
+    --card-desc-color: #787885;
+    --text-white: #ffffff;
+}
+
+ul,ol{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1,h2,h3,h4,h5,h6,p,div,span,li{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    max-width: 100%;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+main section{
+    margin-top: 100px;
+}
+/* Common Style End */
+
+/* Common Style Start */
+/* Common Style End */
+
+/* Common Style Start */
+/* Common Style End */
